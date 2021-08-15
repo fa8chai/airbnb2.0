@@ -42,7 +42,7 @@ export default function Home({ explorData, cardsData }) {
           
         </section>
 
-        <LargeCard img='https://lnks.papareatc.com/' title='The Greatest Outdoors' description='Wishlists curated by Airbnb' buttonText='Get Inspired'  />
+        <LargeCard img='https://links.papareact.com/4cj' title='The Greatest Outdoors' description='Wishlists curated by Airbnb' buttonText='Get Inspired'  />
 
       </main>
       <Footer />
